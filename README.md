@@ -61,7 +61,7 @@ THEN the password is either displayed in an alert or written to the page
 ##Technical Acceptance Criteria: 40%
 - Satisfies all of the above acceptance criteria.
 ##Deployment: 32%
-- Application deployed at live URL. [Password Generator](file:///C:/Users/carss/Desktop/projects/password-gen/password-generator/index.html) 
+- Application deployed at live URL. [Password Generator](https://camilaf99.github.io/password-generator/) 
 
 - Application loads with no errors.
 
